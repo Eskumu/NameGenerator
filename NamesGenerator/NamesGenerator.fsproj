@@ -1,6 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <PackageId>NamesGenerator.core</PackageId>
+        <Version>1.0.5</Version>
+        <Description>Simple random name generator for .NET core.</Description>
+        <Authors>Kristjan Tärk</Authors>
+        <PackageProjectUrl>https://github.com/Eskumu/NameGenerator</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Eskumu/NameGenerator</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
         <TargetFramework>netcoreapp2.1</TargetFramework>
     </PropertyGroup>
 

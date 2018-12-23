@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>NamesGenerator.core</id>
+        <Version>1.0.0</Version>
+        <Description>Simple random name generator for .NET core.</Description>
+        <Authors>Kristjan Tärk</Authors>
+        <projectUrl>https://github.com/Eskumu/NameGenerator</projectUrl>
+        <license type="expression">Apache-2.0</license>
+
+        <!-- Optional elements -->
+        <!-- ... -->
+    </metadata>
+    <!-- Optional 'files' node -->
+</package>

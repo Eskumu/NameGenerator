@@ -1,8 +1,8 @@
-namespace NamesGenerator
+namespace System.Text
 
 open NamesGenerator.Constants
 
-module Text =
+module NamesGenerator =
     /// <summary>
     /// Random Name Generator inspired by c# NamesGenerator (https://github.com/rkttu/NamesGenerator)
     /// Which itself is inspired by Docker NamesGenerator (https://github.com/docker/docker/blob/master/pkg/namesgenerator/names-generator.go)
