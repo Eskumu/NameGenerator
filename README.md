@@ -1,5 +1,5 @@
 # NamesGenerator.core
-![](https://img.shields.io/nuget/v/NamesGenerator.core.svg)
+[![](https://img.shields.io/nuget/v/NamesGenerator.core.svg)](https://www.nuget.org/packages/NamesGenerator.core/)
 
 > .NET core random names generator. Written in F#
 > Inspired by C# and docker name generation implementations.
